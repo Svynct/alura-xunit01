@@ -1,0 +1,10 @@
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\ricka\Desktop\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "763a3325-505e-438c-8436-cd7f335d5001": {
+      "ProjectGuid": "763a3325-505e-438c-8436-cd7f335d5001",
+      "DisplayName": "Alura.LeilaoOnline.Core",
+      "ColorIndex": 0
+    },
+    "ae45fdfd-8a83-4822-b86a-64e6ea83d72c": {
+      "ProjectGuid": "ae45fdfd-8a83-4822-b86a-64e6ea83d72c",
+      "DisplayName": "Alura.LeilaoOnline.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "e7e93eec-bfb6-4514-84bc-365ca0f8728c": {
+      "ProjectGuid": "e7e93eec-bfb6-4514-84bc-365ca0f8728c",
+      "DisplayName": "Alura.LeilaoOnline.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
